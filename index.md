@@ -14,7 +14,11 @@ html{font-family:monofurregular;}
 /____  >____/|__|_ \__|_|  /\____/ 
      \/           \/     \/        
 </pre>
-Monofur Font Repository
+Monofur Font Repository<br/>
+``` php
+function syntaxCMD(){
+echo "aku";
+} ```
 </center>
 </body>
 </html>
