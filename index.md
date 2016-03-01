@@ -15,26 +15,10 @@ html{font-family:monofurregular;}
      \/           \/     \/        
 </pre>
 Monofur Font Repository<br/>
-``` html
-<html>
-<head><title></title>
-<link rel="stylesheet" type="text/css" href="stylesheet.css"/>
-<style>
-html{font-family:monofurregular;}
-</style>
-</head>
-<body>
-<center><pre>
-              __                   
-  ________ __|  | __ _____   ____  
- /  ___/  |  \  |/ //     \ /  _ \ 
- \___ \|  |  /    <|  Y Y  (  <_> )
-/____  >____/|__|_ \__|_|  /\____/ 
-     \/           \/     \/        
-</pre>
-</center>
-</body>
-</html> ```
+``` php
+function syntaxCMD(){
+echo "aku";
+} ```
 </center>
 </body>
 </html>
