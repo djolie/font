@@ -15,7 +15,7 @@ html{font-family:monofurregular;}
      \/           \/     \/        
 </pre>
 Monofur Font Repository<br/>
-<code class="html">
+``` html
 <html>
 <head><title></title>
 <link rel="stylesheet" type="text/css" href="stylesheet.css"/>
@@ -34,7 +34,7 @@ html{font-family:monofurregular;}
 </pre>
 </center>
 </body>
-</html></code>
+</html> ```
 </center>
 </body>
 </html>
